@@ -1,5 +1,5 @@
 # RunExecutableStep
-A Simio user-defined Step to run and executable with arguments
+A Simio user-defined Step to run an executable (.exe file) with arguments created from Simio expressions.
 
 This includes both Executables and Source folders, as well as test programs and Documentation.
 
