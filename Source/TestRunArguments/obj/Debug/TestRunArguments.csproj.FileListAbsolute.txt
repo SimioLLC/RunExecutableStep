@@ -1,0 +1,7 @@
+E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\bin\Debug\TestRunArguments.exe.config
+E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\bin\Debug\TestRunArguments.exe
+E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\bin\Debug\TestRunArguments.pdb
+E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.csprojAssemblyReference.cache
+E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.csproj.CoreCompileInputs.cache
+E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.exe
+E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.pdb
