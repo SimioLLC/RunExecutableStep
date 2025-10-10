@@ -27,6 +27,8 @@ namespace TestRunArguments
                 sbLog.AppendLine($"{DateTime.Now:HH:mm:ss.ff}: CommandLine=[{Environment.CommandLine}]");
 
                 sbLog.AppendLine($"    There are {args.Length} arguments");
+
+                sbLog.AppendLine("The executable ran");
                 int ii = 0;
                 foreach (string arg in args)
                 {

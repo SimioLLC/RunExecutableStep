@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRO+Sm19OSk=",
+  "success": true,
+  "projectFilePath": "C:\\Code\\RunExecutableStep\\Source\\RunExecutable\\RunExecutable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LiamO'Sullivan\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.9\\microsoft.win32.systemevents.9.0.9.nupkg.sha512",
+    "C:\\Users\\LiamO'Sullivan\\.nuget\\packages\\system.drawing.common\\9.0.9\\system.drawing.common.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

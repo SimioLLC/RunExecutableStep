@@ -1,0 +1,92 @@
+
+12:41:40.72: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll]
+    There are 0 arguments
+The executable ran
+
+12:41:42.87: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll]
+    There are 0 arguments
+The executable ran
+
+08:28:17.68: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll]
+    There are 0 arguments
+The executable ran
+
+08:53:08.83: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 10.004141426306148981]
+    There are 1 arguments
+The executable ran
+    Arg[0]=[10.004141426306148981]
+
+08:53:10.68: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 40.010513928320649624]
+    There are 1 arguments
+The executable ran
+    Arg[0]=[40.010513928320649624]
+
+08:53:11.82: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 50.01368445761305038]
+    There are 1 arguments
+The executable ran
+    Arg[0]=[50.01368445761305038]
+
+08:53:13.62: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 70.01815600148047994]
+    There are 1 arguments
+The executable ran
+    Arg[0]=[70.01815600148047994]
+
+08:54:13.35: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 1 0.004141426306148981]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[1]
+    Arg[1]=[0.004141426306148981]
+
+08:54:14.62: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 4 0.010513928320649624]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[4]
+    Arg[1]=[0.010513928320649624]
+
+08:54:15.33: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 5 0.01368445761305038]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[5]
+    Arg[1]=[0.01368445761305038]
+
+08:54:16.71: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 7 0.01815600148047994]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[7]
+    Arg[1]=[0.01815600148047994]
+
+08:54:17.24: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 7 0.02044831585888332]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[7]
+    Arg[1]=[0.02044831585888332]
+
+08:54:18.35: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 8 0.02453144774213001]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[8]
+    Arg[1]=[0.02453144774213001]
+
+09:36:56.78: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 1 0.0006039581181491033]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[1]
+    Arg[1]=[0.0006039581181491033]
+
+09:36:57.88: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 2 0.007156738644523659]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[2]
+    Arg[1]=[0.007156738644523659]
+
+09:36:58.62: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 4 0.010513928320649624]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[4]
+    Arg[1]=[0.010513928320649624]
+
+09:36:59.42: CommandLine=[C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\net9.0\TestRunArguments.dll 5 0.01368445761305038]
+    There are 2 arguments
+The executable ran
+    Arg[0]=[5]
+    Arg[1]=[0.01368445761305038]

@@ -5,3 +5,10 @@ E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArgum
 E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.csproj.CoreCompileInputs.cache
 E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.exe
 E:\(svn azure)\SimioCloud\API\Examples2021\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.pdb
+C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\TestRunArguments.exe.config
+C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\TestRunArguments.exe
+C:\Code\RunExecutableStep\Source\TestRunArguments\bin\Debug\TestRunArguments.pdb
+C:\Code\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.csproj.AssemblyReference.cache
+C:\Code\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.csproj.CoreCompileInputs.cache
+C:\Code\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.exe
+C:\Code\RunExecutableStep\Source\TestRunArguments\obj\Debug\TestRunArguments.pdb

@@ -1,0 +1,15 @@
+C:\Code\RunExecutableStep\Source\RunExecutable\bin\Debug\net9.0\RunExecutable.deps.json
+C:\Code\RunExecutableStep\Source\RunExecutable\bin\Debug\net9.0\RunExecutable.dll
+C:\Code\RunExecutableStep\Source\RunExecutable\bin\Debug\net9.0\RunExecutable.pdb
+C:\Code\RunExecutableStep\Source\RunExecutable\bin\Debug\net9.0\SimioAPI.dll
+C:\Code\RunExecutableStep\Source\RunExecutable\bin\Debug\net9.0\SimioAPI.Extensions.dll
+C:\Code\RunExecutableStep\Source\RunExecutable\bin\Debug\net9.0\SimioAPI.Graphics.dll
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\RunExecutable.csproj.AssemblyReference.cache
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\RunExecutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\RunExecutable.csproj.CoreCompileInputs.cache
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\RunExecutable.sourcelink.json
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\RunExecu.3C230AC8.Up2Date
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\RunExecutable.dll
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\refint\RunExecutable.dll
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\RunExecutable.pdb
+C:\Code\RunExecutableStep\Source\RunExecutable\obj\Debug\net9.0\ref\RunExecutable.dll
